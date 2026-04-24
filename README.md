@@ -1,31 +1,22 @@
-<div align="left">
-Joreese Clyde
+<div align="center">
+👨‍💻 Joreese Clyde
 </div>
 📌 About Me
-
-I am a third-year Computer Science student with a strong foundation in programming and software development. I am highly adaptable, detail-oriented, and committed to continuous learning. I strive to build efficient, scalable, and user-focused solutions through both academic and personal projects.
-
+<p align="justify"> I am a third-year Computer Science student with a strong foundation in programming and software development. I am highly adaptable, detail-oriented, and committed to continuous learning. I strive to build efficient, scalable, and user-focused solutions through both academic and personal projects. </p>
 💻 Technical Skills
+<div align="left">
 Programming Languages
-HTML, CSS, JavaScript
-PHP
-C, C++, C#
+<p> HTML • CSS • JavaScript <br> PHP <br> C • C++ • C# </p>
 Tools & Technologies
-Git & Git Bash
-Linux
-Windows
+<p> Git & Git Bash <br> Linux <br> Windows </p> </div>
 📚 Current Focus
-Enhancing software development and problem-solving skills
-Building and maintaining practical projects
-Expanding knowledge in system design and development practices
+<ul> <li>Enhancing software development and problem-solving skills</li> <li>Building and maintaining practical projects</li> <li>Expanding knowledge in system design and development practices</li> </ul>
 📂 Projects
-
-A collection of my academic and personal projects can be found in my repositories. These projects reflect my growth, technical abilities, and commitment to learning.
-
+<p align="justify"> A collection of my academic and personal projects can be found in my repositories. These projects reflect my growth, technical abilities, and commitment to learning. </p>
 📫 Contact
-GitHub: joreese-clyde
+<p> <strong>GitHub:</strong> <a href="https://github.com/joreese-clyde">joreese-clyde</a> </p>
 <div align="center">
 
-Thank you for visiting my profile.
+✨ <i>Thank you for visiting my profile</i> ✨
 
 </div>
