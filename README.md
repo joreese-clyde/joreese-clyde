@@ -12,7 +12,6 @@ PHP
 C, C++, C#
 Tools & Technologies
 Git & Git Bash
-Forte (Music Notation Software)
 Linux
 Windows
 📚 Current Focus
@@ -24,7 +23,7 @@ Expanding knowledge in system design and development practices
 A collection of my academic and personal projects can be found in my repositories. These projects reflect my growth, technical abilities, and commitment to learning.
 
 📫 Contact
-GitHub: (your username here)
+GitHub: joreese-clyde
 <div align="center">
 
 Thank you for visiting my profile.
