@@ -1,27 +1,32 @@
-👋 Hi there, I'm a 3rd Year Computer Science Student
+<div align="left">
+Joreese Clyde
+</div>
+📌 About Me
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about building, learning, and improving my skills in software development.
+I am a third-year Computer Science student with a strong foundation in programming and software development. I am highly adaptable, detail-oriented, and committed to continuous learning. I strive to build efficient, scalable, and user-focused solutions through both academic and personal projects.
 
-🚀 About Me
-🎓 3rd Year Computer Science Student
-💡 Continuously learning and exploring new technologies
-⚡ Fast learner with strong adaptability
-🛠️ Interested in both front-end and back-end development
-💻 Programming Languages
-🌐 HTML, CSS, JavaScript, PHP
-🧠 C, C++, C#
-🛠️ Tools & Technologies
-🔧 Git & Git Bash
-🎼 Forte (music notation software)
-🐧 Linux
-🪟 Windows
-📚 What I'm Currently Doing
-Developing academic and personal projects
-Improving problem-solving and coding skills
-Exploring software development practices and system design
+💻 Technical Skills
+Programming Languages
+HTML, CSS, JavaScript
+PHP
+C, C++, C#
+Tools & Technologies
+Git & Git Bash
+Forte (Music Notation Software)
+Linux
+Windows
+📚 Current Focus
+Enhancing software development and problem-solving skills
+Building and maintaining practical projects
+Expanding knowledge in system design and development practices
 📂 Projects
 
-Check out my repositories to see what I’ve been working on. More projects coming soon!
+A collection of my academic and personal projects can be found in my repositories. These projects reflect my growth, technical abilities, and commitment to learning.
 
-📫 Connect With Me
+📫 Contact
 GitHub: (your username here)
+<div align="center">
+
+Thank you for visiting my profile.
+
+</div>
