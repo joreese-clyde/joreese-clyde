@@ -1,5 +1,5 @@
-<div align="center">
-👨‍💻 Computer Science Student
+<div align="left">
+👨‍💻 Joreese Clyde
 </div>
 💻 Technical Skills
 Programming Languages
