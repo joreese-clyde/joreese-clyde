@@ -7,6 +7,8 @@
 <div align="left">
 Programming Languages
 <p> HTML • CSS • JavaScript <br> PHP <br> C • C++ • C# </p>
+Framework
+<p> React Native • Python Django </p>
 Tools & Technologies
 <p> Git & Git Bash <br> Linux <br> Windows </p> </div>
 📚 Current Focus
