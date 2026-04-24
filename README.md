@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi there, I'm a 3rd Year Computer Science Student
 
-<!--
-**joreese-clyde/joreese-clyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student passionate about building, learning, and improving my skills in software development.
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 3rd Year Computer Science Student
+💡 Continuously learning and exploring new technologies
+⚡ Fast learner with strong adaptability
+🛠️ Interested in both front-end and back-end development
+💻 Programming Languages
+🌐 HTML, CSS, JavaScript, PHP
+🧠 C, C++, C#
+🛠️ Tools & Technologies
+🔧 Git & Git Bash
+🎼 Forte (music notation software)
+🐧 Linux
+🪟 Windows
+📚 What I'm Currently Doing
+Developing academic and personal projects
+Improving problem-solving and coding skills
+Exploring software development practices and system design
+📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my repositories to see what I’ve been working on. More projects coming soon!
+
+📫 Connect With Me
+GitHub: (your username here)
