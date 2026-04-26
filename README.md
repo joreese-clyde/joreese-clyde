@@ -4,7 +4,7 @@ Programming Languages
 🛠️ Tools & Technologies
 <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/> </p>
 📚 Current Focus
-<p align="center"> Enhancing software development and problem-solving skills • Building and maintaining practical projects • Expanding knowledge in system design and development practices </p>
+<p align="center">I’m focused on improving my software development and problem-solving skills while working on real, practical projects. I aim to continuously learn and apply better system design principles and development practices as I grow as a student and developer. </p>
 📂 Projects
 <p align="center"> A collection of my academic and personal projects can be found in my repositories. These projects reflect my growth, technical abilities, and commitment to learning. </p>
 📫 Contact
