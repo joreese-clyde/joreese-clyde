@@ -1,4 +1,4 @@
-- Hi there, I'm Joreese Clyde! 👋
+# Hi there, I'm Joreese Clyde! 👋
 
 🌍 **Based in:** Philippines | 💡 **Passionate about building innovative solutions**
 
