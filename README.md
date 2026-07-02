@@ -1,16 +1,32 @@
-💻 Technical Skills
-Programming Languages
-<p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>
-🛠️ Tools & Technologies
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/> </p>
-📚 Current Focus
-<p align="center">I’m focused on improving my software development and problem-solving skills while working on real, practical projects. I aim to continuously learn and apply better system design principles and development practices as I grow as a student and developer. </p>
-📂 Projects
-<p align="center"> A collection of my academic and personal projects can be found in my repositories. These projects reflect my growth, technical abilities, and commitment to learning. </p>
-📫 Contact
-<p align="center"> <strong>GitHub:</strong> <a href="https://github.com/joreese-clyde">joreese-clyde</a> </p>
+# Hi there, I'm Joreese Clyde! 👋
+
+🌍 **Based in:** Philippines | 💡 **Passionate about building innovative solutions**
+
+  Student | Still Learning
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating functional, user-friendly applications. I enjoy diving into both frontend and backend development, and I am always eager to learn new tools, languages, and methodologies to expand my skillset.
+
+---
+
+##Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+##Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing new ideas, or learning from fellow developers. Feel free to reach out to me!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joreese-clyde)
+
+---
+
+## Current Focus & Projects
+* **What I'm doing:** Improving my core software development skills and diving deeper into system design principles.
+* **Repositories:** While my profile is currently growing, the repositories featured here represent my commitment to learning, practical application, and mastering core development practices. Stay tuned as I continue to build and share new projects.
+---
+
 <div align="center">
-
-<i>Thank you for visiting my profile.</i>
-
+  <i>Thank you for visiting my profile!</i>
 </div>
