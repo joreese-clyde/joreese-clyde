@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Joreese+Clyde;Student+%7C+Open+for+Commission" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/_Philippines-informational?style=flat-square&color=2ea44f" alt="Location"/>
 <img src="https://img.shields.io/badge/_Open_for-Commission%20%26%20Collab-blue?style=flat-square" alt="Availability"/>
 <img src="https://komarev.com/ghpvc/?username=joreese-clyde&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
