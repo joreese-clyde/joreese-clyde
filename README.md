@@ -1,14 +1,37 @@
-# Hi there, I'm Joreese Clyde! 👋
+<div align="center">
 
-🌍 **Based in:** Philippines | 💡 **Passionate about building innovative solutions**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Joreese+Clyde;Student+%7C+Still+Learning;Welcome+to+my+terminal...;Loading+portfolio...+%5BOK%5D" alt="Typing SVG" />
 
-  Student | Still Learning
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating functional, user-friendly applications. I enjoy diving into both frontend and backend development, and I am always eager to learn new tools, languages, and methodologies to expand my skillset.
+```bash
+joreese@dev-machine:~$ neofetch
+```
+
+```
+       .--.          joreese@github
+      |o_o |         --------------
+      |:_/ |         OS: Philippines Linux
+     //   \ \        Role: Student | Still Learning
+    (|     | )        Focus: Full-Stack Development
+   /'\_   _/`\        Interests: System Design, Web Dev
+   \___)=(___/        Status: Always eager to learn 🌱
+```
 
 ---
 
-Technologies & Tools
+### `$ cat about.txt`
+
+Hi there, I'm **Joreese Clyde**! 👋
+Based in the 🌍 **Philippines**, passionate about building innovative solutions.
+
+I'm a developer who enjoys diving into both frontend and backend work — always exploring new tools, languages, and methodologies to level up my skillset.
+
+---
+
+<details>
+<summary>💻 <b>$ ls technologies/</b></summary>
+<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,21 +46,58 @@ Technologies & Tools
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</details>
+
+<details>
+<summary>📊 <b>$ ./show_stats.sh</b></summary>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joreese-clyde&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joreese-clyde&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joreese-clyde&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165" />
+
+</details>
+
+<details>
+<summary>🚀 <b>$ cat current_focus.md</b></summary>
+<br>
+
+- 🔭 **What I'm doing:** Improving my core software development skills and diving deeper into system design principles.
+- 📦 **Repositories:** My profile is still growing — the repos here reflect my commitment to learning, practical application, and mastering core dev practices. Stay tuned as I build and share more.
+- 🌱 **Currently learning:** Backend architecture, databases, and clean coding practices.
+
+</details>
+
+<details>
+<summary>📈 <b>$ ./contribution_graph.sh</b></summary>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joreese-clyde&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+
+</details>
+
 ---
 
-- Let's Connect!
+### `$ ./connect.sh --contact`
 
-I'm always open to collaborating on interesting projects, discussing new ideas, or learning from fellow developers. Feel free to reach out to me!
+Always open to collaborating on interesting projects, discussing new ideas, or learning from fellow developers. Reach out!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joreese-clyde)
+<p align="left">
+<a href="https://github.com/joreese-clyde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ---
 
-- Current Focus & Projects
-* **What I'm doing:** Improving my core software development skills and diving deeper into system design principles.
-* **Repositories:** While my profile is currently growing, the repositories featured here represent my commitment to learning, practical application, and mastering core development practices. Stay tuned as I continue to build and share new projects.
----
+```bash
+joreese@dev-machine:~$ echo "Thank you for visiting my profile!"
+Thank you for visiting my profile!
+joreese@dev-machine:~$ _
+```
 
 <div align="center">
-  <i>Thank you for visiting my profile!</i>
+
+![Profile Views](https://komarev.com/ghpvc/?username=joreese-clyde&color=00FF00&style=flat-square&label=Terminal+Visits)
+
 </div>
