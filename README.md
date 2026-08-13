@@ -2,8 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Joreese+Clyde;Student+%7C+Open+for+Commission" alt="Typing SVG" />
 
+<p>
 <img src="https://img.shields.io/badge/_Open_for-Commission%20%26%20Collab-blue?style=flat-square" alt="Availability"/>
 <img src="https://komarev.com/ghpvc/?username=joreese-clyde&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
 
@@ -27,8 +29,8 @@ Mabuhay! I'm **Joreese Clyde** — a full-stack developer based in the Philippin
        .--.          joreese@github
       |o_o |         --------------
       |:_/ |         OS: Windows/Linux
-     //   \ \        Role: Student & Developer
-    (|     | )        Focus: Web & Mobile Developer
+     //   \ \        Role: Student, Dev
+    (|     | )        Focus: Web & Mobile Dev
    /'\_   _/`\        Status: Learning
    \___)=(___/
 ```
@@ -42,7 +44,7 @@ Mabuhay! I'm **Joreese Clyde** — a full-stack developer based in the Philippin
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,reactnative,git,linux,windows,vercel,mysql" alt="Tech Stack" height="45"/>
 </p>
 
-### `$ ./connect.sh`
+### `$ ./socials.sh`
 <p>
 <a href="https://github.com/joreese-clyde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:seiko.dev1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
