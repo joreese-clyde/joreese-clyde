@@ -27,8 +27,8 @@ Mabuhay! I'm **Joreese Clyde** — a full-stack developer based in the Philippin
        .--.          joreese@github
       |o_o |         --------------
       |:_/ |         OS: Windows/Linux
-     //   \ \        Role: Student, Dev
-    (|     | )        Focus: Web & Mobile Development
+     //   \ \        Role: Student & Developer
+    (|     | )        Focus: Web & Mobile Developer
    /'\_   _/`\        Status: Learning
    \___)=(___/
 ```
