@@ -51,9 +51,6 @@ Hi, I'm **Joreese Clyde** 👋 — a developer based in the Philippines who enjo
 
 </td>
 <td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joreese-clyde&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-
 </td>
 </tr>
 </table>
@@ -68,16 +65,6 @@ Hi, I'm **Joreese Clyde** 👋 — a developer based in the Philippines who enjo
 - 🌱 Currently learning backend architecture & clean coding practices
 
 <br>
-
-## `$ ./stats.sh`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joreese-clyde&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joreese-clyde&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-<br>
-
 ## `$ ./connect.sh`
 
 <p align="left">
