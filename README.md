@@ -41,7 +41,7 @@ Mabuhay! I'm **Joreese Clyde** — a full-stack developer based in the Philippin
 
 ### `$ ls tech-stack/`
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,reactnative,git,linux,windows,vercel,mysql" alt="Tech Stack" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,react,git,linux,windows,vercel,mysql" alt="Tech Stack" height="45"/>
 </p>
 
 ### `$ ./socials.sh`
