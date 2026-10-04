@@ -4,13 +4,17 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COMMISSIONS-00cc66?style=flat-square" alt="Availability"/>
+<img src="https://img.shields.io/badge/COLLABORATION-WELCOME-00cc66?style=flat-square" alt="Collaboration"/>
+
+<br/><br/>
+
 <a href="https://github.com/joreese-clyde">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-joreese--clyde-181717?style=flat-square&logo=github" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/OPEN%20TO-COMMISSIONS%20%26%20COLLABS-00cc66?style=flat-square" alt="Open to Commissions and Collaborations"/>
-<img src="https://komarev.com/ghpvc/?username=joreese-clyde&label=PROFILE%20VIEWS&color=00cc66&style=flat-square" alt="Profile Views"/>
 
 </div>
+
 
 
 <table width="100%">
