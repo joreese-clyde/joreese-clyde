@@ -1,13 +1,17 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Joreese+Clyde;Student+%7C+Open+for+Commission" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Joreese+Clyde;Student+%7C+Open+for+Commissions" alt="Typing SVG" />
 
-<p>
-<img src="https://img.shields.io/badge/_Open_for-Commission%20%26%20Collab-blue?style=flat-square" alt="Availability"/>
-<img src="https://komarev.com/ghpvc/?username=joreese-clyde&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+<br/>
+
+<a href="https://github.com/joreese-clyde">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/OPEN%20TO-COMMISSIONS%20%26%20COLLABS-00cc66?style=flat-square" alt="Open to Commissions and Collaborations"/>
+<img src="https://komarev.com/ghpvc/?username=joreese-clyde&label=PROFILE%20VIEWS&color=00cc66&style=flat-square" alt="Profile Views"/>
 
 </div>
+
 
 <table width="100%">
 <tr>
