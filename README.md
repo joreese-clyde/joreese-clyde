@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=Initializing...;Hello%2C+I'm+Joreese+Clyde;Computer+Science+Student;Web+Developer+in+Progress;System+Online+%E2%9C%93" alt="Typing Animation" />
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/COMMISSIONS-OPEN-00ff99?style=flat-square&labelColor=0d1117" />
-
 </div>
 
 ---
