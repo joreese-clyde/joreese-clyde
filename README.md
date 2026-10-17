@@ -10,7 +10,7 @@
 
 ```text
 Name       : Joreese Clyde
-Role       : CS Student
+Course     : Computer Science
 Location   : Philippines
 Focus      : Web & Mobile Development
 Status     : Learning & Building
