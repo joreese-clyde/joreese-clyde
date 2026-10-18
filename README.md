@@ -20,6 +20,10 @@ Status     : Learning & Building
 
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,react,mysql,git,linux,windows,vercel" alt="Tech Stack" />
 
+### `> tools`
+
+<img src="https://skillicons.dev/icons?i=git,linux,windows,vercel" alt="Tools" />
+
 ### `> connect`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-000080?style=flat-square&logo=github&logoColor=white&labelColor=24292e)](https://github.com/joreese-clyde)
