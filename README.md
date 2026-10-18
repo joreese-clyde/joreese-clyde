@@ -22,8 +22,8 @@ Status     : Learning & Building
 
 ### `> connect`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-00ff99?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/joreese-clyde)
-[![Email](https://img.shields.io/badge/Email-Contact-00ff99?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:seiko.dev1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-00ff99?style=flat-square&logo=github&logoColor=white&labelColor=24292e)](https://github.com/joreese-clyde)
+[![Email](https://img.shields.io/badge/Email-Contact-00ff99?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:seiko.dev1@gmail.com)
 
 <div align="center">
 
