@@ -18,7 +18,7 @@ Status     : Learning & Building
 
 ### `> tech_stack`
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,react,mysql,git,linux,windows,vercel" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,react,mysql" alt="Tech Stack" />
 
 ### `> tools`
 
