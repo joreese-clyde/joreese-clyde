@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=Initializing...;Hello%2C+I'm+Joreese+Clyde;Computer+Science+Student;Web+Developer+in+Progress;System+Online+%E2%9C%93" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=000080&center=true&vCenter=true&width=500&lines=ᜃᜓᜋᜓᜐ᜔ᜆ;Hello%2C+I'm+Joreese+Clyde;Computer+Science+Student;Web+Developer;Mobile+Developer+in+Progress;" alt="Typing Animation" />
 
 </div>
 
@@ -31,6 +31,6 @@ Status     : Learning & Building
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=400&lines=Building+the+future%2C+one+commit+at+a+time." alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=400&lines=Visit+my+portfolio;" alt="Footer Animation" />
 
 </div>
