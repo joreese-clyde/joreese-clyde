@@ -1,36 +1,43 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=000080&center=true&vCenter=true&width=500&lines=ᜃᜓᜋᜓᜐ᜔ᜆ;Hello%2C+I'm+Joreese+Clyde;Computer+Science+Student;Web+Developer;Mobile+Developer+in+Progress;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Hello%2C+I'm+Joreese+Clyde+ᜃᜓᜋᜓᜐ᜔ᜆ;Computer+Science+Student;Web+Developer;Mobile+Developer+in+Progress" alt="Typing Animation" />
+
+![Location](https://img.shields.io/badge/Philippines-0d1b4c?style=flat-square)
+![Focus](https://img.shields.io/badge/Web_%26_Mobile-58a6ff?style=flat-square&labelColor=0d1b4c)
+![Status](https://img.shields.io/badge/Learning_%26_Building-0d1b4c?style=flat-square)
 
 </div>
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### `> whoami`
 
 ```text
-Name       : Joreese Clyde
-Course     : Computer Science
-Location   : Philippines
-Focus      : Web & Mobile Development
-Status     : Learning & Building
+Name    : Joreese Clyde
+Course  : Computer Science
+Location: Philippines
+Focus   : Web & Mobile Dev
+Status  : Learning & Building
 ```
+
+</td>
+<td valign="top" width="50%">
 
 ### `> tech_stack`
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,react,mysql" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,php,c,cpp,python,django,react,tailwind,mysql,git,linux,windows,vercel&perline=7" alt="Tech Stack" />
+<img src="https://cdn.simpleicons.org/cisco/049FD9" height="44" alt="Cisco" />
 
-### `> tools`
-
-<img src="https://skillicons.dev/icons?i=git,linux,windows,vercel" alt="Tools" />
-
-### `> connect`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000080?style=flat-square&logo=github&logoColor=white&labelColor=24292e)](https://github.com/joreese-clyde)
-[![Email](https://img.shields.io/badge/Email-Contact-000080?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:seiko.dev1@gmail.com)
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=400&lines=Visit+my+portfolio;" alt="Footer Animation" />
+[![GitHub](https://img.shields.io/badge/GitHub-0d1b4c?style=flat-square&logo=github&logoColor=white&logoSize=auto)](https://github.com/joreese-clyde)
+[![Email](https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white&logoSize=auto)](mailto:seiko.dev1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b4c?style=flat-square&logo=vercel&logoColor=white&logoSize=auto)](https://joreeseclyde.dev)
 
 </div>
