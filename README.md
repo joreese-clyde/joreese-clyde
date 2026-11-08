@@ -36,8 +36,7 @@ Status  : Learning & Building
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1b4c?style=flat-square&logo=github&logoColor=white&logoSize=auto)](https://github.com/joreese-clyde)
 [![Email](https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white&logoSize=auto)](mailto:seiko.dev1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b4c?style=flat-square&logo=vercel&logoColor=white&logoSize=auto)](https://joreeseclyde.dev)
+[![Portfolio]](https://joreeseclyde.dev)
 
 </div>
