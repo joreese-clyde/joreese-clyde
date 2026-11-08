@@ -36,7 +36,11 @@ Status  : Learning & Building
 
 <div align="center">
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white&logoSize=auto)](mailto:seiko.dev1@gmail.com)
-[![Portfolio]](https://joreeseclyde.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b4c?style=flat-square)](https://joreeseclyde.dev)
+
+</div>
 
 </div>
